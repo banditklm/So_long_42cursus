@@ -73,9 +73,18 @@ After launching the game, use the following controls:
  - Bonus: animation and enemy movement
 
 
-   🧑‍💻 Author
-Made with ❤️ by Kaltoum
-![Banditklm](https://github.com/banditklm)
+## Screenshots
+
+### Mandatory Game
+![mandatory](assets/mandatory.png)
+
+### Bonus Game
+![bonus](assets/bonus.png)
+
+
+ ### 🧑‍💻 Author
+ Made with ❤️ by Kaltoum
+![banditklm](https://github.com/banditklm)
 
 
 
