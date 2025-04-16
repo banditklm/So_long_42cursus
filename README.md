@@ -73,6 +73,11 @@ After launching the game, use the following controls:
  - Bonus: animation and enemy movement
 
 
+   🧑‍💻 Author
+Made with ❤️ by Kaltoum
+![Banditklm](https://github.com/banditklm)
+
+
 
 
 
