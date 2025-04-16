@@ -79,7 +79,7 @@ After launching the game, use the following controls:
 ![mandatory](assets/mandatory.png)
 
 ### Bonus Game
-![bonus](assets/bonus.png)
+![bonus](assets/rec.gif)
 
 
  ### 🧑‍💻 Author
