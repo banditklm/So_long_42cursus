@@ -82,9 +82,9 @@ After launching the game, use the following controls:
 ![bonus](assets/bonus.png)
 
 
-   🧑‍💻 Author
-Made with ❤️ by Kaltoum
-![Banditklm]([https://github.com/banditklm](https://github.com/banditklm))
+ ### 🧑‍💻 Author
+ Made with ❤️ by Kaltoum
+![Banditklm](https://github.com/banditklm)
 
 
 
